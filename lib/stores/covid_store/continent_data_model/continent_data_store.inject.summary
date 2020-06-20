@@ -1,0 +1,8 @@
+{
+  "asset": "asset:covid19turkey/lib/stores/covid_store/continent_data_model/continent_data_store.dart",
+  "summary": {
+    "injector": [],
+    "module": [],
+    "injectable": []
+  }
+}

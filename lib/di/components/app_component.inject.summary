@@ -1,0 +1,47 @@
+{
+  "asset": "asset:covid19turkey/lib/di/components/app_component.dart",
+  "summary": {
+    "injector": [
+      {
+        "name": "AppComponent",
+        "providers": [
+          {
+            "name": "app",
+            "kind": "getter",
+            "injectedType": {
+              "lookupKey": {
+                "root": "asset:covid19turkey/lib/main.dart#MyApp",
+                "qualifier": null
+              },
+              "isProvider": false
+            },
+            "singleton": false,
+            "asynchronous": false,
+            "dependencies": []
+          },
+          {
+            "name": "getRepository",
+            "kind": "method",
+            "injectedType": {
+              "lookupKey": {
+                "root": "asset:covid19turkey/lib/data/repository.dart#Repository",
+                "qualifier": null
+              },
+              "isProvider": false
+            },
+            "singleton": false,
+            "asynchronous": false,
+            "dependencies": []
+          }
+        ],
+        "modules": [
+          "asset:covid19turkey/lib/di/modules/netwok_module.dart#NetworkModule",
+          "asset:covid19turkey/lib/di/modules/local_module.dart#LocalModule",
+          "asset:covid19turkey/lib/di/modules/preference_module.dart#PreferenceModule"
+        ]
+      }
+    ],
+    "module": [],
+    "injectable": []
+  }
+}

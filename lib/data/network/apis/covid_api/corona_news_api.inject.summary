@@ -1,0 +1,8 @@
+{
+  "asset": "asset:covid19turkey/lib/data/network/apis/covid_api/corona_news_api.dart",
+  "summary": {
+    "injector": [],
+    "module": [],
+    "injectable": []
+  }
+}

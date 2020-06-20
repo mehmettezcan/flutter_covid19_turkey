@@ -1,0 +1,8 @@
+{
+  "asset": "asset:covid19turkey/lib/data/network/dio_client.dart",
+  "summary": {
+    "injector": [],
+    "module": [],
+    "injectable": []
+  }
+}

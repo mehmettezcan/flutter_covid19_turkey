@@ -1,0 +1,8 @@
+{
+  "asset": "asset:covid19turkey/lib/stores/covid_store/covid_store.dart",
+  "summary": {
+    "injector": [],
+    "module": [],
+    "injectable": []
+  }
+}
